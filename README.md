@@ -72,3 +72,10 @@ python main.py
 - TensorRT Support
   - TensorRT-LLM supports GeForce 40 series GPUs: https://github.com/NVIDIA/TensorRT-LLM/tree/main/windows
   - TensorRT needs onnx conversion and tensor rt conversion
+
+
+
+## Asset Source
+
+- Rocky Animation: https://peacelight14.blogspot.com/2011/02/office-assistant.html
+
