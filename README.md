@@ -29,7 +29,7 @@ An AI chatbot assistant named Rocky powered by LLaMA2
 - Clone this repository
 
 ```bash
-git clone https://github.com/BY1994/llmrocky.git
+git clone https://github.com/by-park/llmrocky.git
 ```
 
 - Install pre-requisites
