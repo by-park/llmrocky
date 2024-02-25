@@ -71,6 +71,16 @@ python main.py
 
 - TensorRT Support
   - TensorRT-LLM supports GeForce 40 series GPUs: https://github.com/NVIDIA/TensorRT-LLM/tree/main/windows
+  
+  - LLamA example: https://github.com/NVIDIA/TensorRT-LLM/blob/main/examples/llama/README.md
+  
+    ```bash
+    # With fp16 inference
+    python3 ../run.py --max_output_len=50 \
+                      --tokenizer_dir ./tmp/llama/7B/ \
+                      --engine_dir=./tmp/llama/7B/trt_engines/fp16/1-gpu/
+    ```
+  
   - TensorRT needs onnx conversion and tensor rt conversion
 
 
